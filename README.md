@@ -40,6 +40,17 @@ Go to the project directory
   cd flash_card
 ```
 
+Create a python venv
+```
+python3 -m venv .venv
+```
+
+Activate python venv
+```
+source .venv/bin/activate
+```
+
+
 Install requirements
 
 ```bash
